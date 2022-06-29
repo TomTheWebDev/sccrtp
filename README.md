@@ -1,2 +1,2 @@
 # sccrtp
-first website
+A landing page that uses google sheets api to collect user data.
